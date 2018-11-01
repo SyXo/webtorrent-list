@@ -13,7 +13,7 @@ https://cdn.jsdelivr.net/npm/webtorrent@latest/webtorrent.min.js
 
 https://cdnjs.cloudflare.com/ajax/libs/webtorrent/0.102.4/webtorrent.min.js
 
-https://github.com/webtorrent/webtorrent/blob/master/webtorrent.min.js
+https://github.com/webtorrent/webtorrent/raw/master/webtorrent.min.js
 
 
 # Useful webtorrent information
