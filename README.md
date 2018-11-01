@@ -14,3 +14,9 @@ https://cdn.jsdelivr.net/npm/webtorrent@latest/webtorrent.min.js
 https://cdnjs.cloudflare.com/ajax/libs/webtorrent/0.102.4/webtorrent.min.js
 
 https://github.com/webtorrent/webtorrent/blob/master/webtorrent.min.js
+
+
+# Useful webtorrent information
+https://hacks.mozilla.org/2018/08/dweb-building-a-resilient-web-with-webtorrent/
+
+https://hackernoon.com/how-to-create-a-swarm-cdn-for-free-with-webtorrent-bfa09d193f71
