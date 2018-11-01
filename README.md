@@ -8,6 +8,9 @@ Alterrnative is create a pull request here https://github.com/C0nw0nk/webtorrent
 
 # Known public WebTorrent scripts hosted by CDN (Cloud Distributed Networks)
 https://cdn.jsdelivr.net/webtorrent/latest/webtorrent.min.js
+
 https://cdn.jsdelivr.net/npm/webtorrent@latest/webtorrent.min.js
+
 https://cdnjs.cloudflare.com/ajax/libs/webtorrent/0.102.4/webtorrent.min.js
+
 https://github.com/webtorrent/webtorrent/blob/master/webtorrent.min.js
